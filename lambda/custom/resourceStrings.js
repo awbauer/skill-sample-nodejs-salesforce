@@ -62,7 +62,7 @@ var languageString = {
       "OPPORTUNITY_UPDATE": "I've made the update. ",
 
       /* Error messages */
-      "UNKNOWN_SALESFORCE_ERROR": "I encountered an error when trying reach Salesforce. Please try again later.",
+      "UNKNOWN_SALESFORCE_ERROR": "I encountered an error when trying to reach Salesforce. Please try again later.",
       "UNKNOWN_ERROR": "I ran into a problem with that request. Please try again later. ",
     }
   }
